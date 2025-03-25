@@ -1,2 +1,2 @@
-# Differential_Geometry_Ch1
+# Differential_Geometry
 Local and global geometry of plane curves
