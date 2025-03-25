@@ -135,13 +135,6 @@ For each chapter (1-10), implement the following enhancements:
 - [ ] Propose and outline digital companion tools (Jupyter notebooks, etc.)
 - [ ] Create flowchart summaries for complex proofs
 
-## Supplementary Materials
-- [ ] Develop instructor resources (lecture slides, exam problems)
-- [ ] Create project ideas for coding assignments
-- [ ] Compile notation guides and glossary with cross-references
-- [ ] Develop "Further Reading" lists for each chapter
-- [ ] Create appendices for additional mathematical background
-
 ## Quality Assurance
 - [ ] Implement biweekly review process
 - [ ] Create feedback mechanism for student testing
