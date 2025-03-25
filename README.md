@@ -73,3 +73,6 @@ Supplementary Materials
 Instructor Resources: Include lecture slides, exam problems, and project ideas (e.g., coding assignments for curve simulations).
 
 Learner Resources: Appendices with notation guides, "Further Reading" lists, and a glossary with hyperlinked cross-references.
+
+Final Deliverable:
+A publish-ready textbook (LaTeX/PDF + potential web version) that serves as the gold standard for differential geometry education, combining MIT’s academic rigor with the explanatory brilliance of 3Blue1Brown.
