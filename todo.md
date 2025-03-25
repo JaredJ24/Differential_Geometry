@@ -6,7 +6,7 @@
 - [x] Create todo.md file
 - [x] Setup LaTeX environment for final document compilation
 - [x] Create directory structure for supplementary materials
-- [ ] Setup version control workflow for collaborative editing
+- [x] Setup version control workflow for collaborative editing
 
 ## Content Review
 - [ ] Review existing chapter drafts for consistency with requirements
